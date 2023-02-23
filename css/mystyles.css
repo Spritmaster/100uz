@@ -1,0 +1,13 @@
+.card{
+    border-color:transparent;
+}
+.fs-7{
+    font-size: 12px;
+}
+span{
+    color: var(--bs-dark);
+  
+}
+.btn-px-0{
+    --bs-btn-padding-x: 0;
+}
